@@ -2,7 +2,7 @@ SDK_DIR ?= sdk
 VERSION ?= vdev
 
 CFLAGS += -D'VERSION="${VERSION}"'
-CFLAGS += -DHIO_USE_X1_FOR_I2C_1W=1
+CFLAGS += -DTWR_USE_X1_FOR_I2C_1W=1
 
 -include sdk/Makefile.mk
 
