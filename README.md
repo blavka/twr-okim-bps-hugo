@@ -2,9 +2,9 @@
 
 # Firmware for OKIN BPS Hugo
 
-[![Travis](https://img.shields.io/travis/hardwario/bcf-okim-bps-hugo/master.svg)](https://travis-ci.org/hardwario/bcf-okim-bps-hugo)
-[![Release](https://img.shields.io/github/release/hardwario/bcf-okim-bps-hugo.svg)](https://github.com/hardwario/bcf-okim-bps-hugo/releases)
-[![License](https://img.shields.io/github/license/hardwario/bcf-okim-bps-hugo.svg)](https://github.com/hardwario/bcf-okim-bps-hugo/blob/master/LICENSE)
+[![Travis](https://img.shields.io/travis/hardwario/twr-okim-bps-hugo/master.svg)](https://travis-ci.org/hardwario/twr-okim-bps-hugo)
+[![Release](https://img.shields.io/github/release/hardwario/twr-okim-bps-hugo.svg)](https://github.com/hardwario/twr-okim-bps-hugo/releases)
+[![License](https://img.shields.io/github/license/hardwario/twr-okim-bps-hugo.svg)](https://github.com/hardwario/twr-okim-bps-hugo/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/hardwario_en.svg?style=social&label=Follow)](https://twitter.com/hardwario_en)
 
 This repository contains firmware for OKIN BPS Hugo
